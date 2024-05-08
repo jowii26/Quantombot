@@ -1,7 +1,7 @@
 import { initializeApp } from "firebase/app";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCATZzSTWWeIvtklo9-InlhbRFSHT2ekzs",
+    apiKey: "your api key here",
     authDomain: "quantombot-28b47.firebaseapp.com",
     projectId: "quantombot-28b47",
     storageBucket: "quantombot-28b47.appspot.com",
