@@ -1,4 +1,4 @@
-#Quantombot#
+# Quantombot
 
 QuantumChat Bot is a sophisticated chat application built using modern backend technologies. 
 It is coupled with a robust backend powered by Node.js and Firebase Firestore. 
