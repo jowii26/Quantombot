@@ -1,0 +1,8 @@
+{
+    "projects": {
+      "default": "quantombot-28b47",
+      "test": "quantombot-28b47"
+    },
+    "targets": {},
+    "etags": {}
+  }

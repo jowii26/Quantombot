@@ -1,0 +1,8 @@
+{
+    "Projects": {
+        "Default": "quantombot",
+        "Test": "quantombot"
+    },
+    "targets": {},
+    "etags": {}
+}
